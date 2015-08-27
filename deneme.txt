@@ -1,3 +1,4 @@
 merhaba bu bit git gui denemesi
 8/27/15
 11:17
+hello
